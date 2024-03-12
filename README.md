@@ -1,4 +1,5 @@
 <h1 align="center">Advanced Cloud Health System</h1>
+![version](https://img.shields.io/badge/version-1.0-green)  ![date](https://img.shields.io/badge/release%20date-%20march%202024-blue) ![status](https://img.shields.io/badge/status-%20under%20development-yellow)
 Repositório para o projeto de Engenharia de Software & Engenharia de Requisitos
 
 <h3>Integrantes do grupo:</h3>
